@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+    background: rgb(177, 177, 186);
+}
+
+.event-card{
+    width: 50%;
+    margin:auto;
+    border: 2px solid RED;
+    border-radius: 5px;
+}
+
+.image-card{
+    height: 150px;
+    padding: 40px;
+    background-image: url("./images.jpg");
+}

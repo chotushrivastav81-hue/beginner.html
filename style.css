@@ -1,0 +1,35 @@
+body {
+    background-color: linear-gradient(to right, pink, skyblue);
+    font-family: Arial;
+}
+
+table {
+    width: 50vw;
+    height: 25vh;
+    margin:auto
+    border-collapse;collapse:
+}
+
+th {
+    background-color: aqua;
+    
+    
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+   td{
+       padding:10px;
+       border:2px solid black;
+   }
+
+   tr:nth-child(even){
+      background-color: rgb(84, 185, 84);
+   }
+
+   tr:hover{
+        background-color: yellow;
+   }
