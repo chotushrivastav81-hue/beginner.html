@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #14213d;
+}
+
+nav {
+    background: #13213b;
+    color: white;
+    padding: 20px 3%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav h1 {
+    font-size: 35px;
+    margin: 5px 0;
+}
+
+button {
+    background: #ffb900;
+    border: none;
+    padding: 16px 28px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.hero {
+    background: #3058ed;
+    color: white;
+    text-align: center;
+    padding: 100px 15px 130px;
+}
+
+.hero h2 {
+    font-size: 56px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 28px;
+}
+
+.courses {
+    display: flex;
+    gap: 28px;
+    padding: 43px;
+}
+
+.courses…a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+  cursor: pointer;
+}
+
+a:hover {
+  color: orange;
+}
