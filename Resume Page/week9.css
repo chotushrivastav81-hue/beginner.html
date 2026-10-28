@@ -1,0 +1,52 @@
+
+body {
+  margin: 0;
+  background: #eee;
+  font-family: Arial;
+  text-align: center;
+}
+
+nav {
+  background: #101044;
+  color: white;
+  padding: 15px;
+}
+
+section {
+  background: #00cfff;
+  padding: 20px;
+  color: white;
+}
+
+body {
+  margin: 0;
+  background: #eee;
+  font-family: Arial;
+  text-align: center;
+}
+
+nav {
+  background: #101044;
+  color: white;
+  padding: 15px;
+}
+
+section {
+  background: #00cfff;
+  padding: 20px;
+  color: white;
+}
+
+  img{
+  width: 90%;
+  border-radius: 10px;
+  image-rendering:
+
+  }
+button {
+  background: blue;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
